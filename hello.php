@@ -1,3 +1,3 @@
 <?php
-print('Bem vindo!!');
+print('Bem vindo!');
 ?>
