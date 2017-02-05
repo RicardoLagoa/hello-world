@@ -1,3 +1,3 @@
 <?php
-print('Bem vindo!!!!VBS');
+print('Bem vindo!!!VBS');
 ?>
